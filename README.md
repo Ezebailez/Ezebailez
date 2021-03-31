@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, React, JavaScript, Ruby**
 
-- 👯 I’m looking to collaborate on [Mozilla Foundation](https://github.com/mozilla/foundation.mozilla.org/)
-
-- 🤝 I’m looking for help with [Book a local](https://book-a-local.herokuapp.com/)
-
 - 💬 Ask me about **Css, html, Ruby on Rails, Ruby, SQL**
 
 - 📫 How to reach me **ealtavista@gmail.com**
