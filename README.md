@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">A passionate frontend developer in Berlin</h3>
 
-- 🔭 I’m currently working on [The Ecosystem](https://www.the-ecosystem.net/)
+- 🔭 I’m currently working on [Book a Local](https://book-a-local.herokuapp.com/)
 
 - 🌱 I’m currently learning **Ruby on Rails, React, JavaScript, Ruby**
 
