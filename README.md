@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate all-rounder Web developer</h3>
 
 - 💬 Ask me about **Css, html, Ruby on Rails, Ruby, SQL**
 
