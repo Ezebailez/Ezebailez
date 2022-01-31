@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">A passionate all-rounder Web developer</h3>
 
-- 💬 Ask me about **Css, html, Ruby on Rails, Ruby, SQL**
+- 💬 Ask me about **Css, html, JavaScript & more**
 
 - 📫 How to reach me **ealtavista@gmail.com**
 
